@@ -8,7 +8,7 @@ Selezionare uno dei quattro Data Sets mostrati e digitare il numero corrisponden
 3) Haberman
 4) Mammographic Masses
 
-Esecuzione
+# Esecuzione
 Il programma darà in ordine i seguenti output: 
 -Visita per livelli dell'albero di decisione creato sull'intero dataset selezionato.
 
@@ -20,7 +20,7 @@ Il programma darà in ordine i seguenti output:
 
 -Si mostra su un grafico il confronto tra le misure d'impurità
 
-Esempio di output del file Main.py
+# Esempio di output del file Main.py
 Selezionare il dataset che si vuole testare:
 1) Blood Transfusion
 2) Iris
@@ -91,18 +91,18 @@ Validation set numero 5 70.58823529411765 % classificate correttamente, ovvero 7
 70.98039215686273 % classificate correttamente in media, ovvero 362 classificazioni corrette su 510
 
 
-Librerie utilizzate
+# Librerie utilizzate
 random
 matplotlib.pyplot 
 graphviz 
 math
 Attenzione: solitamente sugli IDE più comuni sono quasi tutte presenti tranne per graphviz.(https://graphviz.gitlab.io/download/)
 
-Riferimenti
+# Riferimenti
 Tutti i datasets forniti in questo progetto sono stati presi da UCI Machine Learning. L'implementazione di DecisionTreeLearning.py è stata ripresa e riadattata dalla seguente repository pubblica (https://github.com/aimacode/aima-python/blob/master/learning.py), facendo riferimento a Russell & Norvig 18.3.
 
-Contributing
+# Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-License
+# License
 Giovanni Cellai, 2019
